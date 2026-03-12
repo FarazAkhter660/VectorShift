@@ -1,5 +1,3 @@
-// transformNode.js
-
 import { BaseNode } from './BaseNode';
 import { Position } from 'reactflow';
 
